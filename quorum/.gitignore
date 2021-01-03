@@ -1,0 +1,10 @@
+*.class
+/.idea/
+/bin/
+*.iml
+*.xml
+
+/target/
+/src/org
+/META-INF/
+/target
